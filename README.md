@@ -1,4 +1,4 @@
-## Algorithmic Stock Trading in Python
+# Algorithmic Stock Trading in Python
 
 
 ## * Part 1: Building An Equal-Weight S&P 500 Index Fund
